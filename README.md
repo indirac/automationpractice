@@ -2,6 +2,11 @@
 
 Automation framework developed using NightwatchJS framework powered by NodeJS
 
+### Underlying Technologies
+
+* [Node.js](http://nodejs.org/) (javascript runtime)
+* [NPM](https://www.npmjs.com/) (package manager for the web)
+* [Nightwatch.js](http://nightwatchjs.org/) (End-to-End testing solution for browser based apps)
 ### Setup
 
 ```sh
